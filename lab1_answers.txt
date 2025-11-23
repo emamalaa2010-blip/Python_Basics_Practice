@@ -1,0 +1,19 @@
+Q1. Who created Python?
+b) Guido van Rossum
+
+Q2. Python’s name comes from:
+d) Monty Python's Flying Circus
+
+Q3. A complete, self-contained unit of Python code is called a:
+a) Script
+
+Q4. Correct statements:
+a) True + 1 evaluates to 2
+b) True and False evaluates to False
+d) 7 + False evaluates to 7
+
+Q5. Octal:
+c) 10
+
+Q6. An integer preceded by 0x is treated as:
+c) Hexadecimal
